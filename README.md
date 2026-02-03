@@ -1,16 +1,27 @@
-## Hi there 👋
+# KAAVS 👨‍💻
 
-<!--
-**kaaviyasry/kaaviyasry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend / Full Stack Developer | MERN Stack Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Developer Profile
+- 🎓 Computer Science & Engineering Student
+- 💻 Skilled in React, Node.js, Express, MongoDB
+- 🎨 Interested in UI/UX & clean design
+- 🚀 Passionate about building scalable web apps
+
+---
+
+## 🚀 Technical Skills
+**Languages:** JavaScript, Java 
+**UI:** Figma
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, VS Code 
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/kaaviyasry-balasubramaniam-4b8a65353/
+- Email: kaaviya.balu58@gmail.com
