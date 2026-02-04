@@ -1,6 +1,6 @@
 # KAAVS 👨‍💻
 
-### Frontend / Full Stack Developer | MERN Stack Enthusiast
+### Frontend / Full Stack Developer | UI|UX Designer
 
 ---
 
