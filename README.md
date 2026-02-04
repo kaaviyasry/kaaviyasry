@@ -1,6 +1,6 @@
-# KAAVS 👨‍💻
+# KAAVIYA
 
-### Frontend / Full Stack Developer | UI|UX Designer
+### Full Stack Developer & UI|UX Designer
 
 ---
 
@@ -18,7 +18,7 @@
 **Frontend:** React, HTML, CSS  
 **Backend:** Node.js, Express  
 **Database:** MongoDB  
-**Tools:** Git, GitHub, VS Code 
+ 
 
 ---
 
