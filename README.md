@@ -1,6 +1,6 @@
 # KAAVIYA
 
-### Full Stack Developer & UI|UX Designer
+### Full Stack Developer & UI/UX Designer
 
 ---
 
