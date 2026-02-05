@@ -26,12 +26,6 @@
 - LinkedIn: https://www.linkedin.com/in/kaaviyasry-balasubramaniam-4b8a65353/
 - Email: kaaviya.balu58@gmail.com
 
----
 
-## 📊 LeetCode Contribution Graph
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kaaviyasry?ext=heatmap&theme=dark&hide=ranking,score,solved,easy,medium,hard"/>
-</p>
 
----
