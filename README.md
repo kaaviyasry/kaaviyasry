@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Technical Skills
-**Languages:** JavaScript, Java 
+**Languages:** C,Java,Python ,R
 **UI:** Figma
 **Frontend:** React, HTML, CSS  
 **Backend:** Node.js, Express  
