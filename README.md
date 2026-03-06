@@ -1,4 +1,4 @@
-#  Hi, I'm KAAVIYA 
+#  KAAVIYA 
 
 ### Full Stack Developer | UI/UX Designer  
 
@@ -12,18 +12,7 @@
 
 ---
 
-## 🚀 Technical Skills  
 
-**Programming Languages:** C, Java, Python, R  
-**Frontend:** HTML, CSS, React  
-**Backend:** Node.js, Express  
-**Database:** MongoDB  
-**UI/UX Tools:** Figma  
-**Version Control:** Git, GitHub  
-
-
-
----
 
 ## <img src="https://skillicons.dev/icons?i=github" height="25"/> GitHub Contribution Graph 
 
@@ -57,4 +46,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
+ *Thanks for visiting my profile!*  
