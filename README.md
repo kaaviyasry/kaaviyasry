@@ -46,4 +46,7 @@
 
 ---
 
- *Thanks for visiting my profile!*  
+ ---
+
+###  "Learning never stops. Every project is a new opportunity to grow."
+
