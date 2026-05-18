@@ -1,6 +1,6 @@
 #  KAAVIYA 
 
-### Full Stack Developer | UI/UX Designer  
+### Full Stack Developer | UI/UX  & Graphic Designer  
 
 ---
 
@@ -48,5 +48,5 @@
 
  
 
-###  "Learning never stops. Every project is a new opportunity to grow."
+###  "Fall seven times, stand up eight."
 
